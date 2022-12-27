@@ -5,4 +5,4 @@ This 3d printable file is made for you! it has space for 2 tuning caps and slide
 1 5mm x 20 mm bolt, with a head no wider than 8.5mm
 1 5mm nut with 8mm wrench flats
 
-The sling buffertube mount is based on the design by https://www.thingiverse.com/haphazardlynamed/designs. but it has been modifiedto fit my needs.
+The sling buffertube mount is based on the design by https://www.thingiverse.com/haphazardlynamed/designs. but it has been modified to fit my needs.
